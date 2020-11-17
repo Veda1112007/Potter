@@ -1,0 +1,25 @@
+p,h1,h2{
+    font-family: cursive;
+    color: rgb(151, 34, 45);
+}
+
+li{
+    font-family: cursive;
+    color: rgb(240, 240, 245);
+}
+
+body{
+  background-color: rgb(182, 36, 10);  
+  background-image: url("fdrtuhj.jpg");
+}
+img{
+  width: 1000px;
+  height: 500px;
+  float: right;
+}
+.quotes{
+  width: 300px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
